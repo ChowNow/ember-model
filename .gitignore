@@ -6,3 +6,4 @@ node_modules/
 tests/index.html
 dist/
 .idea/
+*.sublime-*
